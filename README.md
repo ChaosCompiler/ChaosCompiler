@@ -4,7 +4,7 @@
 
 <!-- Title -->
 
-<h1 align="center">Yo 👋, ChaosCompiler here</h1>
+<h1 align="center">Yo 👋, I'm chaoscompiler</h1>
 <p align="center"><em>Full Stack Dev in training 🧠 | Java & DSA grinder 👨‍💻 | Building cool projects at midnight 🌙</em></p>
 
 📚 About Me
@@ -41,4 +41,4 @@ Web Development: MERN Stack (MongoDB, Express.js, React, Node.js)
 </a>
 </p>
 
-<p align="center"><i>“Leveling up, one midnight commit at a time.”</i></p>
+<p align="center"><i>"The journey of a thousand miles begins with a single step."</i></p>
