@@ -4,7 +4,7 @@
 
 <!-- Title -->
 
-<h1 align="center">Yo 👋, I'm chaoscompiler</h1>
+<h1 align="center">Yo 👋, ChaosCompiler here</h1>
 <p align="center"><em>Full Stack Dev in training 🧠 | Java & DSA grinder 👨‍💻 | Building cool projects at midnight 🌙</em></p>
 
 📚 About Me
